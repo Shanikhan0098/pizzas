@@ -1,0 +1,6 @@
+red: #c10a28
+lightred: #f0002f
+yellow: #ffcd00
+green: #8ca93d
+darkyellow: #eb830d
+darkwhite: #fffdfd
